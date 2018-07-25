@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+.chosen {
+    color: green;
+}
+h1,p {
+    border: 1px solidyellow;
+}
+
+div p {
+    font-family: Arial;
+    color: brown;
+}
+
+p:hover {
+    font-weight: bold;
+    background-color: purple;
+}
+p::first-letter {
+    font-size: 4ren;
+}
